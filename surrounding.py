@@ -13,7 +13,10 @@ def surrounding():
       print('The forensics team came game and found that the blood found on the floor does not belong to the deceased person')
       chance3 = str(input('do you wish to inspect it? Yes or No: '))
       logging.info('going to call inspected')
-      inspected()
+      if chance3 == 'Yes' or chance3 == 'yes':
+        inspected()
+      else:
+        print('You are fired')
   elif chance2 == "no" or chance2 == "No":
     logging.info('did not call inspected')
     print('As you keep looking you find a laptop.')

@@ -1,3 +1,24 @@
-
-
 INFO:root:Starting my murder mystery
+INFO:root:Starting my murder mystery
+INFO:root:I am going to call function surrounding
+INFO:root:I am in the surrounding function
+INFO:root:Starting my murder mystery
+INFO:root:Starting my murder mystery
+INFO:root:I am going to call function surrounding
+INFO:root:I am in the surrounding function
+INFO:root:going to call inspected
+INFO:root:inside inspected
+INFO:root:Starting my murder mystery
+INFO:root:I am going to call function surrounding
+INFO:root:I am in the surrounding function
+INFO:root:going to call inspected
+INFO:root:inside inspected
+INFO:root:Starting my murder mystery
+INFO:root:I am going to call function surrounding
+INFO:root:I am in the surrounding function
+INFO:root:did not call inspected
+INFO:root:Did not go to counter
+INFO:root:Starting my murder mystery
+INFO:root:I am going to call function surrounding
+INFO:root:I am in the surrounding function
+INFO:root:going to call inspected
